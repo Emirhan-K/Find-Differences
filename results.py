@@ -1,5 +1,5 @@
 from PyQt5.QtWidgets import *
-from results_python import Ui_ResultWindow
+from results_ui import Ui_ResultWindow
 from PyQt5.QtGui import QPixmap
 
 class Result_Page(QMainWindow):

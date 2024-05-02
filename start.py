@@ -1,5 +1,5 @@
 from PyQt5.QtWidgets import *
-from start_python import Ui_MainWindow
+from start_ui import Ui_MainWindow
 from results import Result_Page
 import cv2
 import imutils
